@@ -48,7 +48,7 @@ section div.banner__contents div.banner__contents--title p{
 section div.banner__contents div.banner__contents--title p.bold-green{  
     -webkit-background-clip: text;
     -webkit-text-fill-color:transparent;
-    background-image: url("/assets/image\ 3.jpg");
+    background-image: url("../assets/image 3.jpg");
     font-weight: 800;
 }
 
@@ -96,7 +96,7 @@ section div.banner__image {
      width: 40%;
     height: 500px;
     margin-top: 95px;
-    background-image: url("/assets/image\ 2.jpg");
+    background-image: url("../assets/image\ 2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
@@ -190,22 +190,22 @@ section.main div.main__boxs article.main__boxs--contents {
     border-radius: 5px;
 }
 section.main div.main__boxs article.main__boxs--contents.img-1 {   
-    background-image: url("/assets/image\ 8.jpg");
+    background-image: url("../assets/image 8.jpg");
 }
 section.main div.main__boxs article.main__boxs--contents.img-2 {   
-    background-image: url("/assets/image\ 9.jpg");
+    background-image: url("../assets/image\ 9.jpg");
 }
 section.main div.main__boxs article.main__boxs--contents.img-3 {   
-    background-image: url("/assets/image\ 10.png");
+    background-image: url("../assets/image\ 10.png");
 }
 section.main div.main__boxs article.main__boxs--contents.img-4 {   
-    background-image: url("/assets/image\ 11.jpg");
+    background-image: url("../assets/image\ 11.jpg");
 }
 section.main div.main__boxs article.main__boxs--contents.img-5 {   
-    background-image: url("/assets/image\ 12.jpg");
+    background-image: url("../assets/image\ 12.jpg");
 }
 section.main div.main__boxs article.main__boxs--contents.img-6 {   
-    background-image: url("/assets/image\ 13.jpg");
+    background-image: url("../assets/image\ 13.jpg");
 }
 
 section.main div.main__boxs article.main__boxs--contents p {    
@@ -428,6 +428,7 @@ footer p a {
     section.main div.main__about div.main__about--column {  
         align-items: center;
         margin-left: 0;
+        margin-inline: 10px;
     }
 
     section.main div.main__about div.main__about--column p{ 
